@@ -1,0 +1,15 @@
+{
+    "Name": "Sachidanand Gupta",
+    "Email": "sachidanandgupta214@email.com",
+    "Skills": [
+        "Python",
+        "SQL",
+        "Communication"
+    ],
+    "Match Score": 60,
+    "Missing Skills": [
+        "Machine Learning",
+        "Git"
+    ],
+    "Recommendation": "Moderate Match"
+}
